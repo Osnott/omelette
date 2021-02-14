@@ -1,2 +1,2 @@
 # omlette
-Fabric Modpack with some neato mods
+Fabric modpack with some neato mods
